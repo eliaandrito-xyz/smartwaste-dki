@@ -451,7 +451,7 @@ def page_info_dataset(df):
 def main():
     with st.sidebar:
         st.markdown(f"## 🏙️ DKI Jakarta")
-        st.markdown(f"<small style='color:#8892b0'>Waste Prediction AI v{APP_VERSION}<br>Sumber: DLH DKI Jakarta</small>", unsafe_allow_html=True)
+      st.markdown(f"<small style='color:#8892b0'>Waste Prediction AI v{APP_VERSION}<br>Sumber: DLH DKI Jakarta<br><br>🏆 Team 404<br>Andrito Elia</small>", unsafe_allow_html=True)
         st.divider()
         page = st.radio("Navigasi", ["📊 Dashboard","🔮 Prediksi","🎮 Simulasi","🗺️ Peta","⚙️ Scaling Data","📄 Laporan","ℹ️ Info Dataset"], label_visibility="collapsed")
         
