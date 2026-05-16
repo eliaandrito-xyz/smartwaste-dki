@@ -1,0 +1,408 @@
+[
+  {
+    "date_start": "2024-06-12",
+    "date_end": "2024-07-12",
+    "type": "Jakarta Fair (PRJ)",
+    "location": "Jakarta Pusat - Kemayoran",
+    "estimated_visitors": 45795
+  },
+  {
+    "date_start": "2024-06-20",
+    "date_end": "2024-06-24",
+    "type": "HUT DKI Jakarta",
+    "location": "Jakarta Selatan - Jagakarsa",
+    "estimated_visitors": 21284
+  },
+  {
+    "date_start": "2024-12-31",
+    "date_end": "2025-01-01",
+    "type": "Malam Tahun Baru",
+    "location": "Jakarta Pusat - Tanah Abang",
+    "estimated_visitors": 104886
+  },
+  {
+    "date_start": "2024-12-24",
+    "date_end": "2024-12-26",
+    "type": "Natal",
+    "location": "Jakarta Timur - Matraman",
+    "estimated_visitors": 39910
+  },
+  {
+    "date_start": "2024-08-16",
+    "date_end": "2024-08-18",
+    "type": "Hari Kemerdekaan RI",
+    "location": "Jakarta Pusat - Gambir",
+    "estimated_visitors": 57194
+  },
+  {
+    "date_start": "2024-03-29",
+    "date_end": "2024-04-03",
+    "type": "Persiapan Lebaran",
+    "location": "ALL",
+    "estimated_visitors": 0
+  },
+  {
+    "date_start": "2024-04-10",
+    "date_end": "2024-04-17",
+    "type": "Hari Raya Idul Fitri",
+    "location": "ALL",
+    "estimated_visitors": 0
+  },
+  {
+    "date_start": "2024-04-18",
+    "date_end": "2024-04-22",
+    "type": "Arus Balik Lebaran",
+    "location": "ALL",
+    "estimated_visitors": 0
+  },
+  {
+    "date_start": "2024-02-10",
+    "date_end": "2024-02-12",
+    "type": "Imlek & Cap Go Meh",
+    "location": "Jakarta Barat - Tambora",
+    "estimated_visitors": 31962
+  },
+  {
+    "date_start": "2024-04-18",
+    "date_end": "2024-04-20",
+    "type": "Paskah",
+    "location": "Jakarta Pusat - Gambir",
+    "estimated_visitors": 16111
+  },
+  {
+    "date_start": "2025-06-12",
+    "date_end": "2025-07-12",
+    "type": "Jakarta Fair (PRJ)",
+    "location": "Jakarta Pusat - Kemayoran",
+    "estimated_visitors": 46023
+  },
+  {
+    "date_start": "2025-06-20",
+    "date_end": "2025-06-24",
+    "type": "HUT DKI Jakarta",
+    "location": "Jakarta Pusat - Kemayoran",
+    "estimated_visitors": 11685
+  },
+  {
+    "date_start": "2025-12-31",
+    "date_end": "2026-01-01",
+    "type": "Malam Tahun Baru",
+    "location": "Jakarta Pusat - Tanah Abang",
+    "estimated_visitors": 114820
+  },
+  {
+    "date_start": "2025-12-24",
+    "date_end": "2025-12-26",
+    "type": "Natal",
+    "location": "Jakarta Pusat - Tanah Abang",
+    "estimated_visitors": 36967
+  },
+  {
+    "date_start": "2025-08-16",
+    "date_end": "2025-08-18",
+    "type": "Hari Kemerdekaan RI",
+    "location": "Jakarta Pusat - Gambir",
+    "estimated_visitors": 76101
+  },
+  {
+    "date_start": "2025-03-16",
+    "date_end": "2025-03-21",
+    "type": "Persiapan Lebaran",
+    "location": "ALL",
+    "estimated_visitors": 0
+  },
+  {
+    "date_start": "2025-03-28",
+    "date_end": "2025-04-04",
+    "type": "Hari Raya Idul Fitri",
+    "location": "ALL",
+    "estimated_visitors": 0
+  },
+  {
+    "date_start": "2025-04-05",
+    "date_end": "2025-04-09",
+    "type": "Arus Balik Lebaran",
+    "location": "ALL",
+    "estimated_visitors": 0
+  },
+  {
+    "date_start": "2025-02-10",
+    "date_end": "2025-02-12",
+    "type": "Imlek & Cap Go Meh",
+    "location": "Jakarta Barat - Tambora",
+    "estimated_visitors": 12433
+  },
+  {
+    "date_start": "2025-04-18",
+    "date_end": "2025-04-20",
+    "type": "Paskah",
+    "location": "Jakarta Pusat - Menteng",
+    "estimated_visitors": 9555
+  },
+  {
+    "date_start": "2026-06-12",
+    "date_end": "2026-07-12",
+    "type": "Jakarta Fair (PRJ)",
+    "location": "Jakarta Pusat - Kemayoran",
+    "estimated_visitors": 58693
+  },
+  {
+    "date_start": "2026-06-20",
+    "date_end": "2026-06-24",
+    "type": "HUT DKI Jakarta",
+    "location": "Jakarta Selatan - Kebayoran Baru",
+    "estimated_visitors": 37480
+  },
+  {
+    "date_start": "2026-12-31",
+    "date_end": "2026-12-31",
+    "type": "Malam Tahun Baru",
+    "location": "Jakarta Pusat - Tanah Abang",
+    "estimated_visitors": 180608
+  },
+  {
+    "date_start": "2026-12-24",
+    "date_end": "2026-12-26",
+    "type": "Natal",
+    "location": "Jakarta Barat - Tambora",
+    "estimated_visitors": 28431
+  },
+  {
+    "date_start": "2026-08-16",
+    "date_end": "2026-08-18",
+    "type": "Hari Kemerdekaan RI",
+    "location": "Jakarta Pusat - Gambir",
+    "estimated_visitors": 22747
+  },
+  {
+    "date_start": "2026-03-29",
+    "date_end": "2026-04-03",
+    "type": "Persiapan Lebaran",
+    "location": "ALL",
+    "estimated_visitors": 0
+  },
+  {
+    "date_start": "2026-04-10",
+    "date_end": "2026-04-17",
+    "type": "Hari Raya Idul Fitri",
+    "location": "ALL",
+    "estimated_visitors": 0
+  },
+  {
+    "date_start": "2026-04-18",
+    "date_end": "2026-04-22",
+    "type": "Arus Balik Lebaran",
+    "location": "ALL",
+    "estimated_visitors": 0
+  },
+  {
+    "date_start": "2026-02-10",
+    "date_end": "2026-02-12",
+    "type": "Imlek & Cap Go Meh",
+    "location": "Jakarta Barat - Tambora",
+    "estimated_visitors": 35551
+  },
+  {
+    "date_start": "2026-04-18",
+    "date_end": "2026-04-20",
+    "type": "Paskah",
+    "location": "Jakarta Selatan - Jagakarsa",
+    "estimated_visitors": 5189
+  },
+  {
+    "date_start": "2025-12-02",
+    "date_end": "2025-12-03",
+    "type": "Jakarta Marathon",
+    "location": "Kepulauan Seribu - Pulau Pramuka",
+    "estimated_visitors": 32051
+  },
+  {
+    "date_start": "2024-09-22",
+    "date_end": "2024-09-24",
+    "type": "Konser GBK / Stadion",
+    "location": "Jakarta Utara - Tanjung Priok",
+    "estimated_visitors": 4390
+  },
+  {
+    "date_start": "2025-06-06",
+    "date_end": "2025-06-11",
+    "type": "Festival Kuliner Jakarta",
+    "location": "Jakarta Selatan - Pancoran",
+    "estimated_visitors": 8933
+  },
+  {
+    "date_start": "2025-04-25",
+    "date_end": "2025-04-30",
+    "type": "Festival Kuliner Jakarta",
+    "location": "Jakarta Pusat - Tanah Abang",
+    "estimated_visitors": 23983
+  },
+  {
+    "date_start": "2025-10-05",
+    "date_end": "2025-10-07",
+    "type": "Pemilihan Umum",
+    "location": "Jakarta Barat - Cengkareng",
+    "estimated_visitors": 45474
+  },
+  {
+    "date_start": "2024-12-06",
+    "date_end": "2024-12-07",
+    "type": "Jakarta Marathon",
+    "location": "Jakarta Timur - Cakung",
+    "estimated_visitors": 27031
+  },
+  {
+    "date_start": "2025-06-06",
+    "date_end": "2025-06-11",
+    "type": "Festival Kuliner Jakarta",
+    "location": "Jakarta Pusat - Tanah Abang",
+    "estimated_visitors": 1521
+  },
+  {
+    "date_start": "2025-09-03",
+    "date_end": "2025-09-08",
+    "type": "Festival Kuliner Jakarta",
+    "location": "Jakarta Timur - Duren Sawit",
+    "estimated_visitors": 7373
+  },
+  {
+    "date_start": "2024-10-23",
+    "date_end": "2024-10-25",
+    "type": "Pemilihan Umum",
+    "location": "Jakarta Barat - Tambora",
+    "estimated_visitors": 27057
+  },
+  {
+    "date_start": "2025-02-08",
+    "date_end": "2025-02-10",
+    "type": "Pemilihan Umum",
+    "location": "Jakarta Timur - Jatinegara",
+    "estimated_visitors": 12034
+  },
+  {
+    "date_start": "2026-04-16",
+    "date_end": "2026-04-18",
+    "type": "Pemilihan Umum",
+    "location": "Jakarta Barat - Cengkareng",
+    "estimated_visitors": 24776
+  },
+  {
+    "date_start": "2024-12-17",
+    "date_end": "2024-12-22",
+    "type": "Banjir Besar",
+    "location": "Jakarta Selatan - Tebet",
+    "estimated_visitors": 40476
+  },
+  {
+    "date_start": "2025-10-17",
+    "date_end": "2025-10-19",
+    "type": "Konser GBK / Stadion",
+    "location": "Jakarta Pusat - Menteng",
+    "estimated_visitors": 2527
+  },
+  {
+    "date_start": "2025-09-25",
+    "date_end": "2025-09-26",
+    "type": "Jakarta Marathon",
+    "location": "Jakarta Timur - Cakung",
+    "estimated_visitors": 33659
+  },
+  {
+    "date_start": "2025-07-07",
+    "date_end": "2025-07-08",
+    "type": "Jakarta Marathon",
+    "location": "Jakarta Pusat - Menteng",
+    "estimated_visitors": 13166
+  },
+  {
+    "date_start": "2024-06-24",
+    "date_end": "2024-06-29",
+    "type": "Festival Kuliner Jakarta",
+    "location": "Jakarta Utara - Kelapa Gading",
+    "estimated_visitors": 8892
+  },
+  {
+    "date_start": "2024-06-16",
+    "date_end": "2024-06-18",
+    "type": "Pemilihan Umum",
+    "location": "Jakarta Timur - Jatinegara",
+    "estimated_visitors": 35722
+  },
+  {
+    "date_start": "2026-05-10",
+    "date_end": "2026-05-12",
+    "type": "Pemilihan Umum",
+    "location": "Jakarta Pusat - Kemayoran",
+    "estimated_visitors": 5556
+  },
+  {
+    "date_start": "2026-01-17",
+    "date_end": "2026-01-18",
+    "type": "Jakarta Marathon",
+    "location": "Jakarta Selatan - Jagakarsa",
+    "estimated_visitors": 14273
+  },
+  {
+    "date_start": "2024-05-19",
+    "date_end": "2024-05-20",
+    "type": "Jakarta Marathon",
+    "location": "Jakarta Selatan - Pancoran",
+    "estimated_visitors": 25946
+  },
+  {
+    "date_start": "2025-06-11",
+    "date_end": "2025-06-12",
+    "type": "Jakarta Marathon",
+    "location": "Jakarta Selatan - Jagakarsa",
+    "estimated_visitors": 22018
+  },
+  {
+    "date_start": "2025-11-19",
+    "date_end": "2025-11-24",
+    "type": "Festival Kuliner Jakarta",
+    "location": "Jakarta Selatan - Tebet",
+    "estimated_visitors": 49202
+  },
+  {
+    "date_start": "2025-11-29",
+    "date_end": "2025-12-01",
+    "type": "Konser GBK / Stadion",
+    "location": "Jakarta Pusat - Gambir",
+    "estimated_visitors": 18641
+  },
+  {
+    "date_start": "2026-02-28",
+    "date_end": "2026-03-05",
+    "type": "Banjir Besar",
+    "location": "Jakarta Barat - Kebon Jeruk",
+    "estimated_visitors": 34327
+  },
+  {
+    "date_start": "2025-01-12",
+    "date_end": "2025-01-13",
+    "type": "Jakarta Marathon",
+    "location": "Jakarta Pusat - Tanah Abang",
+    "estimated_visitors": 44189
+  },
+  {
+    "date_start": "2025-12-09",
+    "date_end": "2025-12-14",
+    "type": "Banjir Besar",
+    "location": "Jakarta Utara - Penjaringan",
+    "estimated_visitors": 29967
+  },
+  {
+    "date_start": "2026-01-24",
+    "date_end": "2026-01-26",
+    "type": "Pemilihan Umum",
+    "location": "Jakarta Selatan - Kebayoran Baru",
+    "estimated_visitors": 26439
+  },
+  {
+    "date_start": "2026-02-13",
+    "date_end": "2026-02-14",
+    "type": "Jakarta Marathon",
+    "location": "Jakarta Utara - Kelapa Gading",
+    "estimated_visitors": 24276
+  }
+]
